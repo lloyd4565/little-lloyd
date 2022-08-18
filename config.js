@@ -39,7 +39,7 @@ global.packname = 'Rukia Md'
 
 global.author = 'WhatsApp Bot'
 
-global.sessionName = 'rukia'
+global.sessionName = 'session'
 
 global.prefa = ['','!','.','🐦','🐤','🗿']
 
